@@ -1,0 +1,85 @@
+﻿Tuning Score,Cases,f1
+Default B,ASIA,0.470588235
+Default B,ASIA,0.875
+Default B,ASIA,0.428571429
+Default B,ASIA,0.285714286
+Default B,ASIA,0.8125
+Default B,ALARM,0.552380952
+Default B,ALARM,0.888888889
+Default B,ALARM,0.738095238
+Default B,ALARM,0.543209877
+Default B,ALARM,0.744444444
+Default B,Property,0.73015873
+Default B,Property,0.754098361
+Default B,Property,0.56
+Default B,Property,0.52173913
+Default B,Property,0.724137931
+Default B,SPORTS,0.230769231
+Default B,SPORTS,0.666666667
+Default B,SPORTS,0.416666667
+Default B,SPORTS,0.416666667
+Default B,SPORTS,0.4
+Default B,HAILFINDER,0.513888889
+Default B,HAILFINDER,0.604651163
+Default B,HAILFINDER,0.574257426
+Default B,HAILFINDER,0.387755102
+Default B,HAILFINDER,0.507462687
+Default B,HEPAR2,0.660465116
+Default B,HEPAR2,0.604878049
+Default B,HEPAR2,0.284090909
+Default B,HEPAR2,0.475675676
+Default B,HEPAR2,0.408376963
+Default A,ASIA,0.380952381
+Default A,ASIA,0.428571429
+Default A,ASIA,0.285714286
+Default A,ASIA,0.8125
+Default A,ALARM,0.491803279
+Default A,ALARM,0.738095238
+Default A,ALARM,0.49382716
+Default A,ALARM,0.722222222
+Default A,Property,0.746268657
+Default A,Property,0.56
+Default A,Property,0.553191489
+Default A,Property,0.620689655
+Default A,SPORTS,0.266666667
+Default A,SPORTS,0.416666667
+Default A,SPORTS,0.4
+Default A,SPORTS,0.4
+Default A,HAILFINDER,0.477419355
+Default A,HAILFINDER,0.574257426
+Default A,HAILFINDER,0.396039604
+Default A,HAILFINDER,0.511278195
+Default A,HEPAR2,0.568690096
+Default A,HEPAR2,0.284090909
+Default A,HEPAR2,0.483870968
+Default A,HEPAR2,0.395939086
+SOS (EBIC-normalised r tuning),ASIA,0.470588235
+SOS (EBIC-normalised r tuning),ASIA,0.875
+SOS (EBIC-normalised r tuning),ASIA,0.428571429
+SOS (EBIC-normalised r tuning),ASIA,0.285714286
+SOS (EBIC-normalised r tuning),ASIA,0.8125
+SOS (EBIC-normalised r tuning),ALARM,0.537037037
+SOS (EBIC-normalised r tuning),ALARM,0.933333333
+SOS (EBIC-normalised r tuning),ALARM,0.744186047
+SOS (EBIC-normalised r tuning),ALARM,0.49382716
+SOS (EBIC-normalised r tuning),ALARM,0.722222222
+SOS (EBIC-normalised r tuning),Property,0.75
+SOS (EBIC-normalised r tuning),Property,0.754098361
+SOS (EBIC-normalised r tuning),Property,0.541666667
+SOS (EBIC-normalised r tuning),Property,0.553191489
+SOS (EBIC-normalised r tuning),Property,0.620689655
+SOS (EBIC-normalised r tuning),SPORTS,0.214285714
+SOS (EBIC-normalised r tuning),SPORTS,0.666666667
+SOS (EBIC-normalised r tuning),SPORTS,0.416666667
+SOS (EBIC-normalised r tuning),SPORTS,0.4
+SOS (EBIC-normalised r tuning),SPORTS,0.4
+SOS (EBIC-normalised r tuning),HAILFINDER,0.553191489
+SOS (EBIC-normalised r tuning),HAILFINDER,0.640625
+SOS (EBIC-normalised r tuning),HAILFINDER,0.574257426
+SOS (EBIC-normalised r tuning),HAILFINDER,0.396039604
+SOS (EBIC-normalised r tuning),HAILFINDER,0.511278195
+SOS (EBIC-normalised r tuning),HEPAR2,0.672897196
+SOS (EBIC-normalised r tuning),HEPAR2,0.623115578
+SOS (EBIC-normalised r tuning),HEPAR2,0.325581395
+SOS (EBIC-normalised r tuning),HEPAR2,0.483870968
+SOS (EBIC-normalised r tuning),HEPAR2,0.395939086
